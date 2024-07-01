@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aparshank
+- 👋 Hi, I’m Aparna Shankar 
 - 👀 I’m interested in finance, computer science, and math
 - 🌱 I’m currently learning java, C, AI, and quantum computing 
 - 📫 How to reach me: aparshank@gmail.com
